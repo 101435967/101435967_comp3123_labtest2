@@ -1,13 +1,24 @@
 # Weather App
 
-A simple ReactJS app to display current weather conditions.
+## Description
+This ReactJS app allows users to search for real-time weather data using the OpenWeatherMap API.
 
 ## Features
+- Real-time weather updates
 - Dynamic city search
-- Real-time weather updates using OpenWeatherMap API
-- Displays temperature, weather conditions, and icon
+- Beautiful UI/UX with OpenWeatherMap icons
 
-## Instructions
-1. Clone the repository.
-2. Run `npm install` to install dependencies.
-3. Run `npm start` to start the application.
+## Screenshots
+1. Home Page
+2. Search Result
+![Weather App Screenshot](screenshot.png)
+
+## Technologies Used
+- ReactJS
+- Axios
+- Bootstrap
+
+## How to Run
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run the app: `npm start`
